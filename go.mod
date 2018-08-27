@@ -1,1 +1,1 @@
-module github.com/disc/gomod
+module github.com/disc/gomod/v2
